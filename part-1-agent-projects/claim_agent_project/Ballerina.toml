@@ -1,0 +1,3 @@
+[workspace]
+title = "claim-agent-project"
+packages = ["claim_agent_integration"]
